@@ -1,0 +1,6 @@
+2025 Stats
+Total:  177
+
+Easy:   74
+Medium: 92
+Hard:   11
