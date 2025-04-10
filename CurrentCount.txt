@@ -1,5 +1,5 @@
 2025 Stats
-Total:  177
+Total:  178
 
 Easy:   75
 Medium: 92
