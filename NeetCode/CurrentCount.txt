@@ -3,5 +3,5 @@ Total:  53
 
 Blind 75
 Easy: 19/19
-Medium: 32/49
+Medium: 39/49
 Hard: 2/7
