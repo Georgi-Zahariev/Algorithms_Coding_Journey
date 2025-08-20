@@ -1,7 +1,7 @@
 2025 Stats
-Total:  64
+Total:  70
 
 Blind 75
 Easy: 19/19
-Medium: 44/49
+Medium: 49/49
 Hard: 2/7
